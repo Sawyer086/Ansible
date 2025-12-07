@@ -39,14 +39,26 @@
 ---
 ## Ответ: 
 
-## 1 ![1]()
-## 2 ![1]()
-## 3 ![1]()
-## 4 ![1]()
-## 5 ![1]()
-## 6 ![1]()
-## 7 ![1]()
-## 8 ![1]()
-## 9 ![1]()
-## 10 ![1]()
-## 11 ![1]()
+## 1 ![1](https://github.com/Sawyer086/Ansible/blob/main/Images/1.jpg)
+
+## 2 ![1](https://github.com/Sawyer086/Ansible/blob/main/Images/2.jpg)
+
+## 3 ![1](https://github.com/Sawyer086/Ansible/blob/main/Images/3.jpg)
+
+## 4 ![1](https://github.com/Sawyer086/Ansible/blob/main/Images/4.jpg)
+
+## 5 
+![1](https://github.com/Sawyer086/Ansible/blob/main/Images/5.jpg)
+
+## 6 ![1](https://github.com/Sawyer086/Ansible/blob/main/Images/6.jpg)
+
+## 7 ![1](https://github.com/Sawyer086/Ansible/blob/main/Images/7.jpg)
+
+## 8 ![1](https://github.com/Sawyer086/Ansible/blob/main/Images/8.jpg)
+
+## 9 ![1](https://github.com/Sawyer086/Ansible/blob/main/Images/9.jpg)
+
+## 10 
+![1](https://github.com/Sawyer086/Ansible/blob/main/Images/10.jpg)
+
+## 11 ![1](https://github.com/Sawyer086/Ansible/blob/main/Images/11.jpg)
